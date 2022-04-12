@@ -1,11 +1,3 @@
----
-name: Custom Form
-title: 'Testery'
-labels: 'lblbl'
-assignees: 'meholden'
-
----
-
 name: Bug Report
 description: File a bug report
 title: "[Bug]: "
